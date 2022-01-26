@@ -1,1 +1,1 @@
-# Marker file for cloudbees-config-ci-bundle.
+#custom marker file, a branch will only be indexed if it has this file
